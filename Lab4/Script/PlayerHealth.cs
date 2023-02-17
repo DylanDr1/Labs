@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GameBehaviour : MonoBehaviour
+public class PlayerHealth : MonoBehaviour
 {
         private int _playerHP = 10;
         public int HP
